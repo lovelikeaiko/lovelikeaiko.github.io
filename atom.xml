@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Paint&#39;s Blog</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-05-07T04:37:37.866Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Paint</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Cgeo架构解析</title>
+    <link href="http://yoursite.com/2017/05/07/cgeo/"/>
+    <id>http://yoursite.com/2017/05/07/cgeo/</id>
+    <published>2017-05-07T04:35:03.000Z</published>
+    <updated>2017-05-07T04:37:37.866Z</updated>
+    
+    <content type="html"><![CDATA[<p>本文将对Cgeo整个架构进行分析，包括类关系，接口设计和实现，地图加载等。</p>
+<h3 id="类关系"><a href="#类关系" class="headerlink" title="类关系"></a>类关系</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"></div><div class="line"></div></pre></td></tr></table></figure>
+<h3 id="接口设计"><a href="#接口设计" class="headerlink" title="接口设计"></a>接口设计</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"></div><div class="line"></div></pre></td></tr></table></figure>
+<h3 id="接口实现"><a href="#接口实现" class="headerlink" title="接口实现"></a>接口实现</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"></div><div class="line"></div></pre></td></tr></table></figure>
+<h3 id="地图加载"><a href="#地图加载" class="headerlink" title="地图加载"></a>地图加载</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"></div><div class="line"></div></pre></td></tr></table></figure>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;本文将对Cgeo整个架构进行分析，包括类关系，接口设计和实现，地图加载等。&lt;/p&gt;
+&lt;h3 id=&quot;类关系&quot;&gt;&lt;a href=&quot;#类关系&quot; class=&quot;headerlink&quot; title=&quot;类关系&quot;&gt;&lt;/a&gt;类关系&lt;/h3&gt;&lt;figure class=&quot;highlight
+    
+    </summary>
+    
+    
+      <category term="Cgeo" scheme="http://yoursite.com/tags/Cgeo/"/>
+    
+  </entry>
+  
+</feed>
